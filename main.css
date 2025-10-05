@@ -28,7 +28,7 @@ body {
     border-style: double;
     border-color: rgb(75, 215, 33);
     border-width:10px;
-    font-size: 30px;
+    font-size: 20px;
 }
 #choose{
     width: 400;
@@ -44,7 +44,7 @@ body {
     border-style: double;
     border-color: rgb(75, 215, 33);
     border-width:10px;
-    font-size: 30px;
+    font-size: 20px;
 }
 input[type=button], input[type=submit], input[type=reset]{
   background-color: rgb(255, 254, 246);
