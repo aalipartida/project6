@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background: url(hallow.jpg)
+}
+#container{
+    width: 900px;
+    height: 850px;
+    margin: 0 auto;
+    background-color: rgb(250, 118, 47);
+}
+#title{
+    margin: 0 auto;
+    padding-left: 50px;
+}
+#pick {
+    width: 390;
+    height: 200;
+    float: left;
+    margin-top: 50px;
+    margin-left: 8px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(174, 95, 239);
+    border-style: double;
+    border-color: rgb(75, 215, 33);
+    border-width:10px;
+    font-size: 30px;
+}
+#choose{
+    width: 400;
+    height: 300;
+    float: right;
+    margin-top: 50px;
+    margin-right: 8px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(174, 95, 239);
+    border-style: double;
+    border-color: rgb(75, 215, 33);
+    border-width:10px;
+    font-size: 30px;
+}
+input[type=button], input[type=submit], input[type=reset]{
+  background-color: rgb(255, 254, 246);
+  border: rgb(250, 118, 47);
+  border-width:3px;
+  border-style: dotted;
+  border-radius: 8px;
+  color: rgb(75, 215, 33);
+  padding: 16px 32px;
+  margin: 4px 2px;
+  cursor: nw-resize;
+}
+#sound{
+    width: 300;
+    height: 700;
+    float: left;
+    margin-top: 20px;
+    margin-left: 5px;
+    background-color: rgb(174, 95, 239);
+    border-style: double;
+    border-color: rgb(75, 215, 33);
+    border-width:10px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+audio{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 450px;
+    height: 90px;
+}
+#foot{
+    width: 50;
+    height: 10;
+    float: right;
+    margin-right: 5px;
+    margin-top: 190px;
+    background-color: rgb(255, 253, 253);
+    border-style: double;
+    border-color: rgb(75, 215, 33);
+    border-width:5px;
+    font-size: 10px;
+    text-align: center;
+}
+a:link{
+    background-color: rgb(255, 253, 253);
+    color:black
+}
+a:visited{
+    color:rgb(75, 215, 33)
+}
+a:hover{
+    color:rgb(250, 118, 47)
+}
+a:active{
+    color:rgb(75, 215, 33)
+}
