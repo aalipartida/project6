@@ -5,7 +5,7 @@ body {
     background: url(hallow.jpg)
 }
 #container{
-    width: 900px;
+    width: 1500px;
     height: 850px;
     margin: 0 auto;
     background-color: rgb(250, 118, 47);
@@ -83,7 +83,8 @@ audio{
     height: 10;
     float: right;
     margin-right: 5px;
-    margin-top: 190px;
+    margin-left: 1010px;
+    margin-top: 50px;
     background-color: rgb(255, 253, 253);
     border-style: double;
     border-color: rgb(75, 215, 33);
